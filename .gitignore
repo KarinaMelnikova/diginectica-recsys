@@ -1,10 +1,6 @@
-# Игнорировать входные и выходные CSV-файлы
-input_data/
-output_data/
-*.csv
-
 # Кеши и временные файлы
 __pycache__/
+.gitignore
 *.pyc
 *.pyo
 *.pyd
